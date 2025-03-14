@@ -18,7 +18,7 @@ app.listen(3000, () => {
  
 
 app.get('/', (req, res) => {
-    res.send('This is the node response sent');
+    // res.send('This is the node response sent');
 });
 
 
